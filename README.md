@@ -53,26 +53,17 @@ This repository presents a project on optimizing Support Vector Machines (SVM) f
 
 ## 📈 Convergence Graph
 Figure below shows accuracy over 100 iterations for the best-performing sample:
+![image](https://github.com/user-attachments/assets/50eb9597-ad2d-4885-bbf3-4d7399799f9d)
 
-![Convergence Graph](best_convergence_graph.png)
+
+
 
 ---
 
 ## 📁 Files Included
 - `svm_optimization_colab.ipynb`: Google Colab notebook for full execution
-- `optimized_svm_results.csv`: CSV table with all sample results
-- `best_convergence_graph.png`: Plot of convergence over iterations
+
 
 ---
 
-## 🔗 GitHub Deployment Instructions
-1. Upload the notebook and result files
-2. Commit the README with method + results
-3. Optionally host via GitHub Pages or link to Colab
-
----
-
-## 📚 References
-- [UCI ML Repository - Letter Recognition](https://archive.ics.uci.edu/ml/datasets/letter+recognition)
-- [Scikit-Learn Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.svm.NuSVC.html)
 
