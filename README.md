@@ -61,7 +61,7 @@ Figure below shows accuracy over 100 iterations for the best-performing sample:
 ---
 
 ## 📁 Files Included
-- `svm_optimization_colab.ipynb`: Google Colab notebook for full execution
+- `svm_optimization.ipynb`: Google Colab notebook for full execution
 
 
 ---
